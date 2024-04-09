@@ -1,4 +1,4 @@
-1_first You have to download the whole foldre of Sign_Language_Project.
+1_first You have to create a folder in desktop and download the whole folders and filess in this rebo inside it.
 
 
 2_and then run every cell in the code untel you reach the cell number 78 then you should go to the folder with title"data" to know the signs then you have to test the three sign language on the camera of cell number 78 
